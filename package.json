@@ -1,0 +1,14 @@
+{
+  "name": "fm_recipe_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch input.scss output.css"
+  },
+  "author": "Jeremy Helsel",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.71.1"
+  }
+}
